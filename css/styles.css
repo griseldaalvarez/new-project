@@ -6,8 +6,14 @@
     background-repeat: no repeat;
     background-size: cover;
     opacity: 0.8;
-    z-index: 1;
 }
+
+#background-image:hover{
+    background-image: url('../images/camera.png');
+    opacity: 0.8;
+}
+
+
 
 .para{
     font-weight: bolder;
