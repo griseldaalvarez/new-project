@@ -13,17 +13,16 @@
     font-weight: bolder;
     background-color:#f1f1f1 ;
     border-radius: 10px;
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     padding: 20px;
+    margin-top: 191px;
 
 }
 
 .button{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   margin-left: 120px;
 }
 
 
